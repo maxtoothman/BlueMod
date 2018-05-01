@@ -1,0 +1,14 @@
+.\_build\device_manager_central.o: ..\..\..\..\..\..\components\ble\device_manager\device_manager_central.c
+.\_build\device_manager_central.o: ..\..\..\..\..\..\components\ble\device_manager\device_manager.h
+.\_build\device_manager_central.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\device_manager_central.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\device_manager_central.o: ..\..\..\..\..\..\components\libraries\util\sdk_common.h
+.\_build\device_manager_central.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\_build\device_manager_central.o: ..\..\..\..\..\..\components\libraries\util\nordic_common.h
+.\_build\device_manager_central.o: ..\..\..\..\..\..\components\device\compiler_abstraction.h
+.\_build\device_manager_central.o: ..\..\..\..\..\..\components\libraries\util\sdk_os.h
+.\_build\device_manager_central.o: ..\..\..\..\..\..\components\libraries\util\sdk_errors.h
+.\_build\device_manager_central.o: ..\..\..\..\..\..\components\softdevice\s132\headers\nrf_error.h
+.\_build\device_manager_central.o: ..\..\..\..\..\..\components\libraries\util\app_util.h
+.\_build\device_manager_central.o: ..\..\..\..\..\..\components\device\nrf.h
+.\_build\device_manager_central.o: ..\..\..\..\..\..\components\device\nrf52.h
